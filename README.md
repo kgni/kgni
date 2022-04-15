@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mdia.dk/](https://www.mdia.dk/)
 
-- 📫 How to reach me **mail@mdia.dk**
+- 📫 Reach me at **mail@mdia.dk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
