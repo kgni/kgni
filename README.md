@@ -37,9 +37,6 @@
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
- <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">mdia.dk (Portfolio)</h3>
@@ -57,12 +54,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript & AOS</strong> - My portfolio site</p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - My portfolio site containing my projects and contact info.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">RUN AWAY"</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://run-away-kanye.netlify.app/">
             <img src="images/run-away.gif" width="100%"  alt="Run Away"/>
         </a>
         <br />
@@ -75,7 +72,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript</strong> - Website for album release of My Beautiful Dark Twisted Fantasy By Kanye West </p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - Website for album release of My Beautiful Dark Twisted Fantasy By Kanye West </p>
     </td>
   </tr>
   
@@ -91,11 +88,11 @@
   <a href="https://github.com/kgni/salonhair-valby" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://kgni.github.io/salonhair-valby/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, SASS, JavaScript - </strong>Project for a hair dresser, containing general info about the business</p>
     </td>
   </tr>
 </table>
