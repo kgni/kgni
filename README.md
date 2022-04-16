@@ -42,7 +42,7 @@
       <h3 align="center">mdia.dk (Portfolio)</h3>
         <br />
         <a target="_blank" href="https://mdia.dk/">
-            <img src="images/run-away.gif" width="100%" alt="Portfolio"/>
+            <img src="images/MDIA.png" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -50,11 +50,11 @@
   <a href="https://github.com/kgni/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://mdia.dk/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>HTML, CSS, JavaScript, AOS</strong> - My portfolio, check it out!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
