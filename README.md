@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Karl</h1>
-<h3 align="center">Software engineer from Denmark</h3>
+<h1 align="left">Hi 👋, I'm Karl</h1>
+<h3 align="left">Software engineer from Denmark</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://mdia.dk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -19,11 +19,10 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://www.mdia.dk/](https://www.mdia.dk/)
-
-- 📫 Reach me at **mail@mdia.dk**
+  <p align="left">🌱 I’m currently learning <strong>Full stack web development</strong><p>
+  <p align="left">💻 All of my projects are available at <a href="https://www.mdia.dk/" target="_blank">https://www.mdia.dk/</a></p>
+  <p align="left">📫 Reach me at <strong>mail@mdia.dk</strong><p>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
