@@ -57,7 +57,7 @@
         <p><strong>HTML5, CSS3, JavaScript</strong> - My portfolio site containing my projects and contact info.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">RUN AWAY"</h3>
+      <h3 align="center">RUN AWAY</h3>
         <br />
       <a target="_blank" href="https://run-away-kanye.netlify.app/">
             <img src="images/run-away.gif" width="100%"  alt="Run Away"/>
