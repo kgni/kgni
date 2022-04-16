@@ -37,12 +37,15 @@
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
+ <h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">mdia.dk (Portfolio)</h3>
         <br />
         <a target="_blank" href="https://mdia.dk/">
-            <img src="images/MDIA.png" width="100%" alt="Portfolio"/>
+            <img src="images/MDIA.png" width="100%" alt="Portfolio site"/>
         </a>
         <br />
         <p align="center">
@@ -54,20 +57,52 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, AOS</strong> - My portfolio, check it out!</p>
+        <p><strong>JavaScript & AOS</strong> - My portfolio site</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">RUN AWAY"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/run-away.gif" width="100%"  alt="Run Away"/>
         </a>
         <br />
         <p align="center">
           
+  <a href="https://github.com/kgni/run-away" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://run-away-kanye.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript</strong> - Website for album release of My Beautiful Dark Twisted Fantasy By Kanye West </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Salon Hair Valby</h3>
+      <br />
+        <a target="_blank" href="https://kgni.github.io/salonhair-valby/">
+          <img src="images/Salon Hair.png" width="100%" alt="Salon Hair Valby"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/kgni/salonhair-valby" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+  </tr>
+</table>
           
           
-          <h1 align="center">Connect</h1>
+          
+<h1 align="center">Connect</h1>
 
 
 
