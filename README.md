@@ -20,7 +20,7 @@
 </p>
 
 
-  <p align="left">🌱 I’m currently learning <strong>Full stack web development</strong><p>
+  <p align="left">🧠 I’m currently learning <strong>Full stack web development</strong><p>
   <p align="left">💻 All of my projects are available at <a href="https://www.mdia.dk/" target="_blank">https://www.mdia.dk/</a></p>
   <p align="left">📫 Reach me at <strong>mail@mdia.dk</strong><p>
 
