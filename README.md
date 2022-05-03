@@ -79,7 +79,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Salon Hair Valby</h3>
       <br />
-        <a target="_blank" href="https://kgni.github.io/salonhair-valby/">
+        <a target="_blank" href="https://salonhair-valby.dk/">
           <img src="images/Salon Hair.png" width="100%" alt="Salon Hair Valby"/>
         </a>
       <br />
