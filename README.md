@@ -95,6 +95,26 @@
     </td>
   </tr>
 </table>
+
+<h1 align="center">Technologies</h1>
+
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Sass&color=2b625f&style=plastic&logo=sass"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=TailwindCSS&color=2b625f&style=plastic&logo=Tailwind CSS"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=React.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TypeScript&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WordPress&color=cdd148&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Adobe&color=98bf53&style=plastic&logo=adobe"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=bbb111&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Express.js&color=bbb111&style=plastic&logo=express"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=MongoDB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Webpack&color=bbb111&style=plastic&logo=webpack"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+</p>
           
           
           
