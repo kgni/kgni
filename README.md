@@ -41,7 +41,7 @@
       <h3 align="center">mdia.dk (Portfolio)</h3>
         <br />
         <a target="_blank" href="https://mdia.dk/">
-            <img src="images/MDIA.png" width="100%" alt="Portfolio site"/>
+            <img src="https://github.com/kgni/kgni/blob/41194b98f515f81e3f41fdb8e6f697376ec8b1cf/images/MDIA.png" width="100%" alt="Portfolio site"/>
         </a>
         <br />
         <p align="center">
@@ -59,7 +59,7 @@
       <h3 align="center">RUN AWAY</h3>
         <br />
       <a target="_blank" href="https://run-away-kanye.netlify.app/">
-            <img src="images/run-away.gif" width="100%"  alt="Run Away"/>
+            <img src="https://github.com/kgni/kgni/blob/41194b98f515f81e3f41fdb8e6f697376ec8b1cf/images/run-away.gif" width="100%"  alt="Run Away"/>
         </a>
         <br />
         <p align="center">
@@ -80,7 +80,7 @@
       <h3 align="center">Salon Hair Valby</h3>
       <br />
         <a target="_blank" href="https://salonhair-valby.dk/">
-          <img src="images/Salon Hair.png" width="100%" alt="Salon Hair Valby"/>
+          <img src="https://github.com/kgni/kgni/blob/41194b98f515f81e3f41fdb8e6f697376ec8b1cf/images/Salon%20Hair.png" width="100%" alt="Salon Hair Valby"/>
         </a>
       <br />
         <p align="center">
