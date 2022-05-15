@@ -75,7 +75,7 @@
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
-      <p>Website for album release of My Beautiful Dark Twisted Fantasy By Kanye West.</p>
+      <p>Website for album release of My Beautiful Dark Twisted Fantasy by Kanye West.</p>
     </td>
   </tr>
   
