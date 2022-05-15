@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, JavaScript</strong></p>
+        <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
       <p>My portfolio site containing my projects and contact info.</p>
     </td>
     <td width="50%" valign="top">
@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, JavaScript</strong></p>
+        <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
       <p>Website for album release of My Beautiful Dark Twisted Fantasy By Kanye West.</p>
     </td>
   </tr>
@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, SASS, JavaScript</strong></p>
+        <p align="center"><strong>HTML5, CSS3, SASS, JavaScript</strong></p>
       <p>Project for a hair dresser, containing general info about the business.</p>
     </td>
     <td width="50%" valign="top">
@@ -116,7 +116,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, JavaScript</strong></p>
+        <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
       <p>Static website for a burger shop.</p>
     </td>
   </tr>
