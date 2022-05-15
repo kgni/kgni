@@ -134,7 +134,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Sass&color=2b625f&style=plastic&logo=sass"/>
   <img src="https://img.shields.io/static/v1?label=|&message=TailwindCSS&color=2b625f&style=plastic&logo=Tailwind CSS"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=React.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=React.js&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TypeScript&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WordPress&color=cdd148&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Adobe&color=98bf53&style=plastic&logo=adobe"/>
