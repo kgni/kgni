@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://mdia.dk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://run-away-kanye.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://salonhair-valby.dk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, SASS, JavaScript</strong></p>
@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://burgerboss.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
@@ -135,8 +135,7 @@
   <img src="https://img.shields.io/static/v1?label=|&message=TailwindCSS&color=2b625f&style=plastic&logo=Tailwind CSS"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=React.js&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TypeScript&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WordPress&color=cdd148&style=plastic&logo=wordpress"/>
+    <!---<img src="https://img.shields.io/static/v1?label=|&message=TypeScript&color=4a935c&style=plastic&logo=typescript"/>--->
     <img src="https://img.shields.io/static/v1?label=|&message=Adobe&color=98bf53&style=plastic&logo=adobe"/>
   <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=bbb111&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Express.js&color=bbb111&style=plastic&logo=express"/>
