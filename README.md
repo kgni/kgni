@@ -35,12 +35,33 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+
   
 <!--  FIRST ROW   -->
+
+
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">mdia.dk (Portfolio)</h3>
+      <h3 align="center">Alzh.info</h3>
+        <br />
+        <a target="_blank" href="https://www.alzh.info/">
+            <img src="https://user-images.githubusercontent.com/84397151/195356267-0c414ae2-846b-4948-a4cd-1cd6c80484a9.png" width="100%" alt="Alzh.info website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/kgni/alzh-info" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.alzh.info/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"><strong>HTML, CSS, Tailwind, NextJS, Node.js, Express, Cheerio, Puppeteer</strong></p>
+      <p>Easy-to-use, non-profit platform for anyone who has an interest in Alzheimer's or Dementia.</p>
+    </td>
+ <td width="50%" valign="top">
+      <h3 align="center">mdia.dk</h3>
         <br />
         <a target="_blank" href="https://mdia.dk/">
             <img src="https://github.com/kgni/kgni/blob/41194b98f515f81e3f41fdb8e6f697376ec8b1cf/images/MDIA.png" width="100%" alt="Portfolio site"/>
@@ -55,9 +76,14 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
   </a>
       </p>
-        <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
+        <p align="center"><strong>HTML, CSS, Tailwind, React, Sanity.io</strong></p>
       <p>My portfolio site containing my projects and contact info.</p>
     </td>
+  </tr>
+
+<!-- SECOND ROW -->
+
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">RUN AWAY</h3>
         <br />
@@ -77,13 +103,7 @@
         <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
       <p>Website for album release of My Beautiful Dark Twisted Fantasy by Kanye West.</p>
     </td>
-  </tr>
-  
-<!-- SECOND ROW  -->
-  
-<!--  Salon Hair  -->
-  <tr>
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">Salon Hair Valby</h3>
       <br />
         <a target="_blank" href="https://salonhair-valby.dk/">
@@ -101,6 +121,12 @@
         <p align="center"><strong>HTML5, CSS3, SASS, JavaScript</strong></p>
       <p>Project for a hair dresser, containing general info about the business.</p>
     </td>
+  </tr>
+  
+<!-- SECOND ROW  -->
+  
+<!--  Salon Hair  -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">BURGER BOSS</h3>
       <br />
