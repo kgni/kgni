@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a>
   <a href="https://github.com/kgni/kgni/files/9766687/Resume.-.Karl.Nielsen.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME-F88900?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/RESUME-0c5733?style=for-the-badge"/>
   </a>
 </p>
 
@@ -190,6 +190,6 @@
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a>
   <a href="https://github.com/kgni/kgni/files/9766687/Resume.-.Karl.Nielsen.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME-F88900?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/RESUME-0c5733?style=for-the-badge"/>
   </a>
 </p>
