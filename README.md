@@ -2,21 +2,20 @@
 <h3 align="left">Software engineer from Denmark</h3>
 
 <p align="left">
-  <a href="https://mdia.dk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+ <a href="https://mdia.dk" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kgni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/mdiadk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://angel.co/u/kgni" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a>
-
   <a href="https://github.com/kgni/kgni/files/9766687/Resume.-.Karl.Nielsen.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/badge/RESUME-F88900?style=for-the-badge"/>
   </a>
 </p>
 
@@ -52,10 +51,10 @@
         <p align="center">
           
   <a href="https://github.com/kgni/alzh-info" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
   <a href="https://www.alzh.info/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML, CSS, Tailwind, NextJS, Node.js, Express, Cheerio, Puppeteer</strong></p>
@@ -71,10 +70,10 @@
         <p align="center">
           
   <a href="https://github.com/kgni/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      <img src="https://img.shields.io/badge/REPO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
   <a href="https://mdia.dk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
+   <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML, CSS, Tailwind, React, Sanity.io</strong></p>
@@ -95,10 +94,10 @@
         <p align="center">
           
   <a href="https://github.com/kgni/run-away" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://run-away-kanye.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
@@ -113,10 +112,10 @@
       <br />
         <p align="center">
   <a href="https://github.com/kgni/salonhair-valby" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+   <img src="https://img.shields.io/badge/REPO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://salonhair-valby.dk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
+      <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, SASS, JavaScript</strong></p>
@@ -137,10 +136,10 @@
       <br />
         <p align="center">
   <a href="https://github.com/kgni/burger-boss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+<img src="https://img.shields.io/badge/REPO-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://burgerboss.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=appveyor&logo-color=white"/>
+ <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
       </p>
         <p align="center"><strong>HTML5, CSS3, JavaScript</strong></p>
@@ -156,19 +155,19 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Sass&color=2b625f&style=plastic&logo=sass"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=TailwindCSS&color=2b625f&style=plastic&logo=Tailwind CSS"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=React.js&color=4a935c&style=plastic&logo=react"/>
-    <!---<img src="https://img.shields.io/static/v1?label=|&message=TypeScript&color=4a935c&style=plastic&logo=typescript"/>--->
-    <img src="https://img.shields.io/static/v1?label=|&message=Adobe&color=98bf53&style=plastic&logo=adobe"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=bbb111&style=plastic&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Express.js&color=bbb111&style=plastic&logo=express"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=MongoDB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Webpack&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
           
           
@@ -179,18 +178,18 @@
 
 <p align="center">
   <a href="https://mdia.dk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kgni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/mdiadk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://angel.co/u/kgni" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a>
-  <a href="https://docs.google.com/document/d/1exdVLZLkl-n1u9k7C-QoMhjcb2b1MRXT/edit?usp=sharing&amp;ouid=106838936484591987660&amp;rtpof=true&amp;sd=true" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://github.com/kgni/kgni/files/9766687/Resume.-.Karl.Nielsen.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME-F88900?style=for-the-badge"/>
   </a>
 </p>
