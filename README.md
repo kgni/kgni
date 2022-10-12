@@ -14,7 +14,8 @@
   <a href="https://angel.co/u/kgni" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1exdVLZLkl-n1u9k7C-QoMhjcb2b1MRXT/edit?usp=sharing&amp;ouid=106838936484591987660&amp;rtpof=true&amp;sd=true" target="_blank">
+
+  <a href="https://github.com/kgni/kgni/files/9766687/Resume.-.Karl.Nielsen.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
