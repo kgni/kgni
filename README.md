@@ -19,7 +19,7 @@
   </a>
 </p>
 
-  <p align="left">💻 All of my projects are available at <a href="https://www.mdia.dk/" target="_blank">https://www.mdia.dk/</a></p>
+  <p align="left">💻 My projects are available at <a href="https://www.mdia.dk/" target="_blank">https://www.mdia.dk/</a></p>
   <p align="left">📫 Reach me at <strong>mail@mdia.dk</strong>, LinkedIn or Twitter<p>
 
 <!-- <h3 align="left">Connect with me:</h3>
