@@ -62,7 +62,7 @@
       <h3 align="center">Alzh.info</h3>
         <br />
         <a target="_blank" href="https://www.alzh.info/">
-            <img src="https://user-images.githubusercontent.com/84397151/195356267-0c414ae2-846b-4948-a4cd-1cd6c80484a9.png" width="100%" alt="Alzh.info website"/>
+            <img src="https://user-images.githubusercontent.com/84397151/196161411-1e56893b-3000-4388-8c6b-f7cfdbd81ca4.png" width="100%" alt="Alzh.info website"/>
         </a>
         <br />
         <p align="center">
