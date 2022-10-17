@@ -53,16 +53,14 @@
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
-  
+
 <!--  FIRST ROW   -->
-
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Alzh.info</h3>
         <br />
         <a target="_blank" href="https://www.alzh.info/">
-            <img src="https://user-images.githubusercontent.com/84397151/196161411-1e56893b-3000-4388-8c6b-f7cfdbd81ca4.png" width="100%" alt="Alzh.info website"/>
+            <img src="https://user-images.githubusercontent.com/84397151/196162654-7d7bb8d0-4a2f-4e27-b44f-3c7754d109a2.png" width="100%" alt="Alzh.info website"/>
         </a>
         <br />
         <p align="center">
