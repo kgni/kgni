@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
   </a>
       </p>
-        <p align="center"><strong>HTML, CSS, Tailwind, NextJS, Node.js, Express, Cheerio, Puppeteer</strong></p>
+        <p align="center"><strong>HTML, CSS, Tailwind, React, NextJS, Node.js, Express, Cheerio, Puppeteer</strong></p>
       <p>Easy-to-use, non-profit platform for anyone who has an interest in Alzheimer's or Dementia.</p>
     </td>
  <td width="50%" valign="top">
