@@ -8,12 +8,6 @@
   <a href="https://www.linkedin.com/in/kgni/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/mdiadk" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://angel.co/u/kgni" target="_blank">
-      <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
-  </a>
   <a href="https://github.com/kgni/kgni/files/9766687/Resume.-.Karl.Nielsen.pdf" target="_blank">
       <img src="https://img.shields.io/badge/RESUME-0c5733?style=for-the-badge"/>
   </a>
